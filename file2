@@ -6,4 +6,12 @@ BBBBBBBBBBBB
 CCCCCCCCCCCCCCC
 gcghcgcgcg
 gccghgghfh
+ pipeline {
+   agent any
+ stages{
+ stages('clone') {
+  kjsdcdhgghj
+  hvshhdksjdsjd
+  hhsjkakjdfhsdj
 
+ 
